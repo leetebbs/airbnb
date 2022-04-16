@@ -51,10 +51,6 @@ const Home = () => {
                   id: "ps",
                   label: "Paris"
                 },
-                {
-                  id: "la",
-                  label: "Los Angeles"
-                },
               ]}
             />
           </div>
